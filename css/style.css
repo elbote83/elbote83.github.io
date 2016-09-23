@@ -75,30 +75,24 @@ li{
 
 section{
 	width: 1000px;
-	background: img/logo2.jpg;
+	background-image: url(../img/logo2.jpg);
+	background-size: 1000px 600px;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
 	border-radius: 10px;
 }
-aside{
 
-	width: 280px;
-	background: white;
-	height: 600px;
-	float: left;
-	margin-left: 20px;
-	margin-top: 20px;
-	border-radius: 10px;
-}
 
-footer{
+footer {
+	outline-color: red;	
 width: 1000px;
 height: 70px;
-background: #FF5900;
+background: none;
 float: left;
+font color:#F2b80d;
 margin-top: 20px;
-border-radius: 10px;
+border-radius: 100px;
 margin-bottom: 20px;
 }
 
@@ -110,8 +104,6 @@ p{
 	padding: 10px;
 	text-align: justify;
 }
-
-
 
 
 
