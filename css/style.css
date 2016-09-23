@@ -30,7 +30,7 @@ text-align: center;
 
 h2{
 font-family: 'Yatra One', cursive;
-color: #006680;
+color: #FF5900;
 margin-left: 10px;
 font-size: 20px;
 text-align: center; 
@@ -84,8 +84,7 @@ section{
 }
 
 
-footer {
-	outline-color: red;	
+footer{
 width: 1000px;
 height: 70px;
 background: none;
