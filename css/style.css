@@ -22,15 +22,15 @@ background-size: cover;
 
 h1{
 font-family: 'Ubuntu', sans-serif;
-color: blue;
+color: #006680;
 margin-left: 10px;
-font-size: 60px;
+font-size: 30px;
 text-align: center; 
 }
 
 h2{
 font-family: 'Yatra One', cursive;
-color: blue;
+color: #006680;
 margin-left: 10px;
 font-size: 20px;
 text-align: center; 
@@ -53,7 +53,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: none;
 border-radius: 10px;
 
 }
@@ -66,7 +66,7 @@ li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
-	background: black;
+	background: #006680;
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white outset; 
@@ -74,8 +74,8 @@ li{
 }
 
 section{
-	width: 700px;
-	background: green;
+	width: 1000px;
+	background: img/logo2.jpg;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
@@ -95,7 +95,7 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: yellow;
+background: #FF5900;
 float: left;
 margin-top: 20px;
 border-radius: 10px;
@@ -110,6 +110,7 @@ p{
 	padding: 10px;
 	text-align: justify;
 }
+
 
 
 
